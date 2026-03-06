@@ -1,6 +1,14 @@
+using Microsoft.EntityFrameworkCore;
 using task;
+using task.Persistence.Common;
 
 var builder = Host.CreateApplicationBuilder(args);
+
+// Регистрация DbContext
+builder.Services.AddDbContext<DellinDictionaryDbContext>(options =>
+    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+// Регистрация сервисов
 builder.Services.AddHostedService<Worker>();
 
 var host = builder.Build();
