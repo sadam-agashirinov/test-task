@@ -1,0 +1,12 @@
+D:\Projects\CartCountry\test-task\Domain\bin\Debug\net9.0\Domain.deps.json
+D:\Projects\CartCountry\test-task\Domain\bin\Debug\net9.0\Domain.dll
+D:\Projects\CartCountry\test-task\Domain\bin\Debug\net9.0\Domain.pdb
+D:\Projects\CartCountry\test-task\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CartCountry\test-task\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+D:\Projects\CartCountry\test-task\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+D:\Projects\CartCountry\test-task\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+D:\Projects\CartCountry\test-task\Domain\obj\Debug\net9.0\Domain.sourcelink.json
+D:\Projects\CartCountry\test-task\Domain\obj\Debug\net9.0\Domain.dll
+D:\Projects\CartCountry\test-task\Domain\obj\Debug\net9.0\refint\Domain.dll
+D:\Projects\CartCountry\test-task\Domain\obj\Debug\net9.0\Domain.pdb
+D:\Projects\CartCountry\test-task\Domain\obj\Debug\net9.0\ref\Domain.dll

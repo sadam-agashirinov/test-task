@@ -5,5 +5,5 @@ public class FileSettings
     /// <summary>
     /// Путь к файлу
     /// </summary>
-    public string FilePath { get; set; }
+    public string FilePath { get; set; } = string.Empty;
 }
