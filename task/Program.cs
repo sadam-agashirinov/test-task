@@ -2,7 +2,8 @@ using Application.Extensions;
 using Persistence.Extensions;
 using task.Extensions;
 
-var builder = Host.CreateApplicationBuilder(args);
+var builder = Host.CreateApplicationBuilder(args)
+    .ConfigureLog();
 
 // Конфигурация настроек
 builder.Services.ConfigureOptions(builder.Configuration);

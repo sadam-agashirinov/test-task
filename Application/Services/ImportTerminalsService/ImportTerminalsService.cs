@@ -48,7 +48,7 @@ public class ImportTerminalsService : IImportTerminalsService
         }
         catch (Exception ex)
         {
-            _logger.LogError(ex, "Ошибка импорта терминалов");
+            _logger.LogError(ex, "Ошибка импорта: {Exception}", ex.Message);
         }
     }
     
